@@ -1,0 +1,2 @@
+mongodb+srv://suparoek:QNuvWwGlzjcRvA8Z@follow-the-money.ddzzmua.mongodb.net/?retryWrites=true&w=majority&appName=follow-the-money
+QNuvWwGlzjcRvA8Z
